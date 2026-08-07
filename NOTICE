@@ -1,0 +1,11 @@
+This repository contains software and documentation licensed under the Apache License, Version 2.0. See LICENSE for the full terms.
+
+The following scholarly work is included unmodified for research reference:
+
+Heping Wen, Yiting Lin, and Zhaoyang Feng, "Cryptanalyzing a bit-level image encryption algorithm based on chaotic maps," Engineering Science and Technology, an International Journal, volume 51, article 101634, 2024, https://doi.org/10.1016/j.jestch.2024.101634.
+
+File: docs/paper/cryptanalyzing-bciea-2024.pdf
+
+Copyright 2024 The Authors. The paper states that it is distributed under the Creative Commons Attribution 4.0 International License (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/.
+
+This notice does not change the Apache-2.0 license governing the repository software and documentation.

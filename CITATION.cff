@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated paper."
+title: "Cryptanalyzing a Bit-Level Image Encryption Algorithm Based on Chaotic Maps"
+type: software
+license: Apache-2.0
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Wen
+      given-names: Heping
+    - family-names: Lin
+      given-names: Yiting
+    - family-names: Feng
+      given-names: Zhaoyang
+  title: "Cryptanalyzing a bit-level image encryption algorithm based on chaotic maps"
+  journal: "Engineering Science and Technology, an International Journal"
+  volume: "51"
+  pages: "101634"
+  year: 2024
+  doi: 10.1016/j.jestch.2024.101634
+  url: "https://doi.org/10.1016/j.jestch.2024.101634"
