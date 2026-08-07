@@ -1,0 +1,22 @@
+2018.5.28-理论上分析WangCH-2018IJBC的解密算法过程，从qL入手，逐个解密。
+编程验证了程序的正确性。
+采用两种方式运行程序，为密码分析做准备。
+
+
+1 主程序运行方式。加密和解密：
+main_WangCH_Seq_Encrypt
+main_WangCH_Seq_Decrypt
+
+2 调用FUNC运行方式。
+加密：
+y_FUNC_WangCH_Seq_Encrypt
+FUNC_WangCH_Seq_Encrypt
+解密：
+y_FUNC_WangCH_Seq_Decrypt
+FUNC_WangCH_Seq_Decrypt
+
+3.1 子程序模块
+Func_Rugge_Kutta_WangCH_Chaos
+Func_Bredth_first_search
+Func_Reverse_Bredth_first_search
+3.2 小程序模块-求解Breadth-first search逆置乱
